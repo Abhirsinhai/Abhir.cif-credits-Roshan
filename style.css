@@ -1,0 +1,16 @@
+h1 {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+h3 {
+  position: relative;
+  background-color: #2B2D2F;
+  color: #71DFBE;
+  border: none;
+  border-radius: 2em;
+  width: 7.5em;
+  height: 1.5em;
+  font-weight: bold;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  cursor: pointer;
+  padding: 0;
+}
